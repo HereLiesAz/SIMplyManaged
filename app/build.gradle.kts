@@ -33,6 +33,7 @@ android {
 }
 
 dependencies {
+    implementation("com.github.HereLiesAz.AzNavRail:aznavrail-updates-compat:12.5")
 
     implementation("androidx.core:core-ktx:1.12.0")
     implementation("androidx.appcompat:appcompat:1.6.1")
